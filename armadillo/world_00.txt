@@ -1,0 +1,6 @@
+N Armadillo
+C 1 0 0
+S 300
+M tyra.obj
+P 0 0 1 0
+--

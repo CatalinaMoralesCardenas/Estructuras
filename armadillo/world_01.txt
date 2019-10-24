@@ -1,0 +1,7 @@
+N Armadillo
+C 1 0 1 
+S 300
+M armadillo.obj
+P 0 0 1 0
+--
+
